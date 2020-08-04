@@ -1,0 +1,5 @@
+venv/
+.env
+bot.db
+db.sqlite3
+sentence_tokenizer.pickle
